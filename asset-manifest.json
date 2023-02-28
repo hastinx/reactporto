@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/reactporto/static/css/main.75911c45.css",
-    "main.js": "/reactporto/static/js/main.66909e21.js",
+    "main.js": "/reactporto/static/js/main.988a083d.js",
     "index.html": "/reactporto/index.html",
     "main.75911c45.css.map": "/reactporto/static/css/main.75911c45.css.map",
-    "main.66909e21.js.map": "/reactporto/static/js/main.66909e21.js.map"
+    "main.988a083d.js.map": "/reactporto/static/js/main.988a083d.js.map"
   },
   "entrypoints": [
     "static/css/main.75911c45.css",
-    "static/js/main.66909e21.js"
+    "static/js/main.988a083d.js"
   ]
 }
