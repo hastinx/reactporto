@@ -9,8 +9,8 @@ const Navbar = () => {
     return (
         <>
             <div className='d-flex gap-5'>
-                <Link className={path[1] === "" ? `${styles.link_button} ${styles.active}` : styles.link_button} to="/">Hy..</Link>
-                <Link className={path[1] === "portofolio" ? `${styles.link_button} ${styles.active}` : styles.link_button} to="/portofolio">Portofolio</Link>
+                <Link className={path[1] === "" ? `${styles.link_button} ${styles.active}` : styles.link_button} to="/reactporto/">Hy..</Link>
+                <Link className={path[1] === "portofolio" ? `${styles.link_button} ${styles.active}` : styles.link_button} to="/reactporto/portofolio">Portofolio</Link>
             </div>
         </>
     )
