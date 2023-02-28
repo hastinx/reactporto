@@ -1,0 +1,81 @@
+.home{
+    width: 100%;
+    height: calc(100vh - 200px);
+    background-color:rgb(255, 215, 0);
+    display: flex;
+    justify-content: space-between;
+}
+
+.home_left_imgae{
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 35px 0 rgba(0, 0, 0, 0.19);
+}
+
+.home_left{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    padding: 50px;
+
+}
+
+.home_right{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.home_right_bio{
+    height: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content:center ;
+}
+
+.home_right_name{
+    font-size: 38px;
+    font-weight: 600;
+    background-color: black;
+    color: white;
+    padding: 20px 50px 20px 30px;
+    font-family: 'Shantell Sans', cursive;
+}
+
+.home_right_title{
+    font-size: 32px;
+    font-weight: 600;
+    background-color: white;
+    color: black;
+    padding: 20px 50px 20px 50px;
+    font-family: 'Shantell Sans', cursive;
+}
+
+.home_right_medsos{
+    align-items: center;
+    height: 40%;
+    display: flex;
+    gap: 50px;
+}
+
+.home_right_skill{
+    margin-top: 50px;
+    display: flex;
+    gap: 50px;
+}
+
+.home_right_medsos_icon{
+    width: 52px;
+    height: 52px;
+}
+.home_right_medsos_icon_shadow{
+    width: 62px;
+    height: 62px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.home_right_medsos_icon_shadow:hover{
+    transform: scale(1.5);
+}

@@ -1,0 +1,20 @@
+.link_button{
+    font-size: 22px;
+    text-decoration: none;
+    padding: 5px;
+    color: black;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+}
+
+.link_button:hover{
+       color: black;
+    transform: scale(1.5);
+    text-decoration: overline;
+}
+
+.active{
+   transform: scale(1.5);
+   text-decoration: overline;
+}
+

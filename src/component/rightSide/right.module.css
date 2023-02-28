@@ -1,0 +1,21 @@
+.img_profile{
+    width: 52px;
+    height: 52px;
+    border-radius:30px
+}
+
+.btn_profile{
+    height: 40px;
+    width: 150px;
+    border-radius: 35px;
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 2px 12px 2px 12px;
+}
+
+.btn_profile:hover{
+    background-color: white;
+    color: black;
+    transition: background-color 0.2s ease-in;
+}

@@ -1,0 +1,11 @@
+.portofolio{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+.portofolio_coming{
+    font-size: 72px;
+    font-weight: 700;
+}
