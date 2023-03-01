@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/reactporto/static/css/main.75911c45.css",
-    "main.js": "/reactporto/static/js/main.83ab851a.js",
+    "main.css": "/reactporto/static/css/main.0d8c2617.css",
+    "main.js": "/reactporto/static/js/main.18e3b143.js",
+    "static/media/pims.png": "/reactporto/static/media/pims.7ebde486d92c8c1d92d3.png",
+    "static/media/book.png": "/reactporto/static/media/book.54667ac8cf0a86f92bd5.png",
+    "static/media/mps.png": "/reactporto/static/media/mps.bd3f40ee30634dc75af4.png",
+    "static/media/dnn.png": "/reactporto/static/media/dnn.702020a9d7b0ba5e21b4.png",
+    "static/media/xv.png": "/reactporto/static/media/xv.258974fcedd02696207a.png",
+    "static/media/oms.png": "/reactporto/static/media/oms.fd2a4709c988957b1ca9.png",
     "index.html": "/reactporto/index.html",
-    "main.75911c45.css.map": "/reactporto/static/css/main.75911c45.css.map",
-    "main.83ab851a.js.map": "/reactporto/static/js/main.83ab851a.js.map"
+    "main.0d8c2617.css.map": "/reactporto/static/css/main.0d8c2617.css.map",
+    "main.18e3b143.js.map": "/reactporto/static/js/main.18e3b143.js.map"
   },
   "entrypoints": [
-    "static/css/main.75911c45.css",
-    "static/js/main.83ab851a.js"
+    "static/css/main.0d8c2617.css",
+    "static/js/main.18e3b143.js"
   ]
 }
